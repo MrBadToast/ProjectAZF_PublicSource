@@ -1,4 +1,4 @@
-## AzureFiled 공개 스크립트/쉐이더
+## AzureField 공개 스크립트/쉐이더
 
 **이 파일들에는 본인이 Project AzureField를 개발하며 작업했던 모든 스크립트와 쉐이더가 있습니다.**
 
